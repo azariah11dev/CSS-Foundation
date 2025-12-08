@@ -1,0 +1,27 @@
+
+.text1{
+    background-color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.text2{
+    background-color: white;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.button1{
+    background-color: green;
+    color: white;
+}
+
+.button2{
+    background-color: white;
+    color: black;
+}
+
+.text3{
+    background-color: white;
+    font-weight: 100;
+}
