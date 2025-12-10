@@ -1,0 +1,49 @@
+
+.div1{
+    display: flex;
+    flex-direction: column;
+}
+
+.div2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 0 20px;
+    height: 50px;
+}
+
+.div3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+.right-UI, .left-UI{
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+    color: purple;
+    align-items: center;
+}
+
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.notification{
+    border-radius: 20px;
+    background-color: purple;
+    color: white;
+    padding: 5px 10px;
+}
+
+.id{
+    border-radius: 50%;
+    background-color: purple;
+    color: white;
+    margin-right: 10px;
+    padding: 10px;
+}
