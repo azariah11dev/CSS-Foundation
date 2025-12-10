@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    width: 50%;
+    height: 300px;
+    margin: 100px auto;
+
+}
+
+.item-1{
+    background-color: lightcoral;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border: 5px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
